@@ -1,8 +1,11 @@
 # Ignore the 'probe' directory
 /probing/
+/betslip-env/
 
-# Ignore all .npy files
+# Ignore all data files
 *.npy
+*.pkl
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
