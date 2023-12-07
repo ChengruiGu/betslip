@@ -1,5 +1,6 @@
 ## Install:  
 cd to the project root  
+`pip install -r requirements.txt`
 `pip install .`
 
 ## Fetching Data:   
